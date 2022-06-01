@@ -130,3 +130,6 @@ dmypy.json
 
 #Data-ignore the data! It's silly to upload GB of data for no perceptible reason, especially when there's a customizable function set in the notebook to take all information *and* a list of files used for this specific project for those curious
 data/
+
+#Segdata-ignore this until we're just looking at the labeled data- that's actually important. The header files will be provided so as to be completely reproducible in the style used
+segdata/
