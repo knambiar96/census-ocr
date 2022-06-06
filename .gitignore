@@ -133,3 +133,5 @@ data/
 
 #Segdata-ignore this until we're just looking at the labeled data- that's actually important. The header files will be provided so as to be completely reproducible in the style used
 segdata/
+
+imgtensor.pkl
